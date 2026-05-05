@@ -1,0 +1,5 @@
+.env
+pagila-data.sql
+.claude/
+__pycache__/
+*.pyc
